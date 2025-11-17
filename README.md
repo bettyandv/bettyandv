@@ -1,24 +1,39 @@
-<div align="left">
+---
+title: "Bai Ye"
+layout: default
+---
 
-# Ye Bai
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+
+## Bai Ye (Ye Bai)
 **Ph.D. Student in Artificial Intelligence for Healthcare, The University of Melbourne**
 
 I am a PhD student at the **University of Melbourne**, supervised by **David O’Neal**, **Ting Dang**, and **Dale Morrison**.  
-My research lies at the intersection of **LLMs**, **Multi-Agent Reasoning**, and **AI-assisted diabetes management**, with a focus on *Conversational RAG* and *continuous multimodal monitoring*.
+My research lies at the intersection of **LLMs**, **multi-agent reasoning**, and **AI-assisted diabetes management**, with a focus on *Conversational RAG* and *continuous multimodal monitoring*.
 
 Previously, I worked for **5+ years** in the trust industry, managing **300+ financial projects** exceeding **¥50 billion**, which strengthened my analytical and cross-disciplinary problem-solving skills.
 
 **Research Interests:**  
-LLM Reasoning • Multi-Agent Systems • Conversational RAG • AI for Healthcare • Long-term Memory Systems
+LLM Reasoning • Multi-Agent Systems • Conversational RAG • AI for Healthcare • Long-term Memory Systems  
 
 <br>
+
+[Email](#) • [Google Scholar](https://scholar.google.com/citations?user=g5tMC-IAAAAJ&hl=zh-CN) • [GitHub](https://github.com/bettyandv) • [LinkedIn](https://www.linkedin.com/in/ye-bai-27053a100/)
+
+</div>
+
+</div>
+
+<!-- <br>
 
 <a href="ye.bai2@student.unimelb.edu.au"><img src="https://img.shields.io/badge/-Email-1685FC?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://scholar.google.com/citations?user=g5tMC-IAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
 <a href="https://github.com/bettyandv"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ye-bai-27053a100/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 
-</div>
+</div> -->
 
 ---
 
@@ -61,7 +76,7 @@ LLM Reasoning • Multi-Agent Systems • Conversational RAG • AI for Healthca
 
 ---
 
-> © 2025 Bai Ye | MIT License (optional)  
+> © 2025 Bai Ye
 > *Exploring AI solutions that bridge technology and real-world healthcare impact.*
 
 
