@@ -15,7 +15,7 @@ LLM Reasoning • Multi-Agent Systems • Conversational RAG • AI for Healthca
 
 <br>
 
-@ye.bai2(at)student.unimelb.edu.au • [Google Scholar](https://scholar.google.com/citations?user=g5tMC-IAAAAJ&hl=zh-CN) • [GitHub](https://github.com/bettyandv) • [LinkedIn](https://www.linkedin.com/in/ye-bai-27053a100/)
+📧 ye.bai2(at)student.unimelb.edu.au • 📘 [Google Scholar](https://scholar.google.com/citations?user=g5tMC-IAAAAJ&hl=zh-CN) • 🐱 [GitHub](https://github.com/bettyandv) • 💼 [LinkedIn](https://www.linkedin.com/in/ye-bai-27053a100/)
 
 </div>
 
